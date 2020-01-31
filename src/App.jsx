@@ -10,7 +10,7 @@ const element = (
 				<p class="description">Hi my name is sahithi, I am a computer science student masters student at san diego state university.My hobbies are listening to music,playing badminton and painting. I love to travel and explore different countries
 				</p>
 				<div class="button">
-				<button onclick="window.location.href = 'https://github.com/';">VIEW MY GITHUB REPO</button>
+				<button onclick="window.location.href = 'https://github.com/sahithiartala/Assignment-1.git'">VIEW MY GITHUB REPO</button>
 				</div>
 			</div>
 		</div>
