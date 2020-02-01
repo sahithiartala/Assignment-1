@@ -1,6 +1,6 @@
 const element = (
 
-			<div class="wrapper">
+			<div className="wrapper">
 				<h3>
 				SAHITHI ARTALA</h3>
 				<img src="sahithi.jpg" alt="picture">

@@ -1,5 +1,5 @@
 const element = React.createElement("div", {
-  class: "wrapper"
+  className: "wrapper"
 }, React.createElement("h3", null, "SAHITHI ARTALA"), React.createElement("img", {
   src: "sahithi.jpg",
   alt: "picture"
